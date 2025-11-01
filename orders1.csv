@@ -1,0 +1,8 @@
+﻿order_id,customer_id,order_date,total_amount,status
+1001,1,01-06-2023,4500,Delivered
+1002,1,03-06-2023,5200,Delivered
+1003,2,02-06-2002,3000,Delivered
+1004,2,02-06-2023,3000,Delivered
+1005,3,10-06-2023,5200,Delivered
+1006,3,06-06-2023,7000,Delivered
+1007,4,09-06-2023,4000,Delivered
